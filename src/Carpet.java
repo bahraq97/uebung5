@@ -1,9 +1,4 @@
 
-
-
-
-
-
 public class Carpet {
 
     private double cost;

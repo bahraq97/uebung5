@@ -1,6 +1,4 @@
 
-
-
 public class Calculator {
 
     private Floor floor;

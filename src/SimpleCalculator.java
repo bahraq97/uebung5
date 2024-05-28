@@ -9,8 +9,8 @@ public class SimpleCalculator {
 
 
     public SimpleCalculator(double firstNumber, double secondNumber) {
-        firstNumber = this.firstNumber;
-        secondNumber = this.secondNumber;
+        this.firstNumber = firstNumber;
+        this.secondNumber = secondNumber;
     }
 
 

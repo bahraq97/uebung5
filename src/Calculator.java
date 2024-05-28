@@ -1,7 +1,6 @@
 
 
 
-
 public class Calculator {
 
     private Floor floor;
@@ -13,18 +12,9 @@ public class Calculator {
         this.carpet = carpet;
     }
 
-    public double getTotalCost(){
-
-
-        return 0.0;
+    public double getTotalCost() {
+        return carpet.getCost() * floor.getArea();
     }
-
-
-
-
-
-
-
 
 
     public Floor getFloor() {
